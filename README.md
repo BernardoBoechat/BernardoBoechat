@@ -2,6 +2,12 @@
 <p align="center">Engenheiro de Software • Dev curioso • Apaixonado por aprender</p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/bernardo-sant-ana-boechat-b08632360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" alt="Lua"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
@@ -17,10 +23,10 @@
 
 Sou engenheiro de software e adoro transformar ideias em soluções eficientes. Atualmente, estou focado em dominar **Lua**, enquanto continuo explorando novas ferramentas e boas práticas para construir aplicações modernas, performáticas e escaláveis.
 
-- 🔍 **Curioso por natureza**, sempre buscando entender o *porquê* das coisas
-- 🎯 Gosto de escrever código limpo, legível e modular
-- 🤝 Valorizo colaboração, empatia e troca de conhecimento
-- 📈 Meu lema: aprender, aplicar, repetir
+- 🔍 **Curioso por natureza**, sempre buscando entender o *porquê* das coisas  
+- 🎯 Gosto de escrever código limpo, legível e modular  
+- 🤝 Valorizo colaboração, empatia e troca de conhecimento  
+- 📈 Meu lema: aprender, aplicar, repetir  
 
 ---
 
