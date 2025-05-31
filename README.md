@@ -2,7 +2,7 @@
 <p align="center">Engenheiro de Software • Dev curioso • Apaixonado por aprender</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bernardo-sant-ana-boechat-b08632360/" target="_blank">
+  <a href="https://www.linkedin.com/in/Be-Boechat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
