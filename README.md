@@ -37,4 +37,3 @@ Sou engenheiro de software e adoro transformar ideias em soluções eficientes. 
 ⚙️  Back-end:       Node.js • Lua • Express • REST APIs
 🗃️  Bancos:         PostgreSQL • MongoDB
 🧰  DevOps:         Docker • Git • GitHub Actions
-📦  Outros:         Linux • Nginx • Insomnia • Postman
