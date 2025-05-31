@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Bernardo! 👋</h1>
+<p align="center">Engenheiro de Software • Dev curioso • Apaixonado por aprender</p>
 
-<!--
-**BernardoBoechat/BernardoBoechat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" alt="Lua"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Sobre mim
+
+> “Código é poesia que funciona.”
+
+Sou engenheiro de software e adoro transformar ideias em soluções eficientes. Atualmente, estou focado em dominar **Lua**, enquanto continuo explorando novas ferramentas e boas práticas para construir aplicações modernas, performáticas e escaláveis.
+
+- 🔍 **Curioso por natureza**, sempre buscando entender o *porquê* das coisas
+- 🎯 Gosto de escrever código limpo, legível e modular
+- 🤝 Valorizo colaboração, empatia e troca de conhecimento
+- 📈 Meu lema: aprender, aplicar, repetir
+
+---
+
+### ⚒️ Minhas Ferramentas
+
+```txt
+💻  Front-end:      HTML • CSS • JavaScript • React
+⚙️  Back-end:       Node.js • Lua • Express • REST APIs
+🗃️  Bancos:         PostgreSQL • MongoDB
+🧰  DevOps:         Docker • Git • GitHub Actions
+📦  Outros:         Linux • Nginx • Insomnia • Postman
