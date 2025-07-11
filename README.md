@@ -1,11 +1,7 @@
 <h1 align="center">Olá, eu sou o Bernardo! 👋</h1>
 <p align="center">Engenheiro de Software • Dev curioso • Apaixonado por aprender</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/Be-Boechat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" alt="Lua"/>
