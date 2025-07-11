@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Bernardo! 👋</h1>
+<h1 align="center">Olá, eu sou o Bernardo!</h1>
 <p align="center">Engenheiro de Software • Dev curioso • Apaixonado por aprender</p>
 
 
