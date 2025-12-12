@@ -24,7 +24,6 @@ Gosto de criar soluções diretas e funcionais. Trabalho como engenheiro de soft
 
 ### Minhas Ferramentas
 
-```md
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/>  Front-end: HTML • CSS • JavaScript • React
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/>  Back-end: Node.js • Lua • Express • REST APIs
