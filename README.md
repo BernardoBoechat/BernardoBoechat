@@ -1,7 +1,5 @@
 <h1 align="center">Olá, eu sou o Bernardo!</h1>
-<p align="center">Engenheiro de Software • Dev curioso • Apaixonado por aprender</p>
-
-
+<p align="center">Engenheiro de Software • Dev curioso • Sempre aprendendo</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" alt="Lua"/>
@@ -13,23 +11,24 @@
 
 ---
 
-### 💡 Sobre mim
+### Sobre mim
 
-> “Código é poesia que funciona.”
+Gosto de criar soluções diretas e funcionais. Trabalho como engenheiro de software e estou sempre explorando tecnologias novas. No momento, estou me aprofundando em Lua, enquanto continuo usando ferramentas que me ajudam a manter meus projetos rápidos, limpos e bem organizados.
 
-Sou engenheiro de software e adoro transformar ideias em soluções eficientes. Atualmente, estou focado em dominar **Lua**, enquanto continuo explorando novas ferramentas e boas práticas para construir aplicações modernas, performáticas e escaláveis.
-
-- 🔍 **Curioso por natureza**, sempre buscando entender o *porquê* das coisas  
-- 🎯 Gosto de escrever código limpo, legível e modular  
-- 🤝 Valorizo colaboração, empatia e troca de conhecimento  
-- 📈 Meu lema: aprender, aplicar, repetir  
+- Focado em entender como as coisas funcionam internamente  
+- Prioridade em código simples e fácil de manter  
+- Gosto de colaborar e trocar experiências  
+- Ciclo constante de aprender, aplicar e melhorar  
 
 ---
 
-### ⚒️ Minhas Ferramentas
+### Minhas Ferramentas
 
-```txt
-💻  Front-end:      HTML • CSS • JavaScript • React
-⚙️  Back-end:       Node.js • Lua • Express • REST APIs
-🗃️  Bancos:         PostgreSQL • MongoDB
-🧰  DevOps:         Docker • Git • GitHub Actions
+```md
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/>  Front-end: HTML • CSS • JavaScript • React
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/>  Back-end: Node.js • Lua • Express • REST APIs
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"/>  Bancos: PostgreSQL • MongoDB
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/>  DevOps: Docker • Git • GitHub Actions
