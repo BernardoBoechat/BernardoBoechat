@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋! My name is Bernardo Boechat and I'm a Software Engineering student and developer from Brazil.</h2>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BernardoBoechat&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBoechat&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
