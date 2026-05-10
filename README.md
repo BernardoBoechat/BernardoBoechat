@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bernardo Boechat and I'm a Software Engineering student and developer from Brazil.</h2>
+<h2 align="left">H 👋! My name is Bernardo Boechat and I'm a Software Engineering student and developer from Brazil.</h2>
 
 ###
 
