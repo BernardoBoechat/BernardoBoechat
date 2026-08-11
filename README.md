@@ -1,146 +1,95 @@
 <div align="center">
 
-# Bernardo Boechat
-
-### Software Engineering Student · Full Stack Developer
-
-**Backend • APIs REST • TypeScript • Node.js • React • MySQL**
-
-<br>
-
-<a href="https://github.com/BernardoBoechat">GitHub</a>
-  •   <a href="https://www.linkedin.com/in/be-boechat-dev/">LinkedIn</a>
-  •   <a href="mailto:bernardoboechat6@gmail.com">Email</a>
-
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Engenharia de Software**, atualmente no **6º período**, com foco no desenvolvimento de aplicações web e APIs.
-
-Tenho interesse principalmente em **Backend e desenvolvimento Full Stack**, trabalhando com JavaScript, TypeScript, Node.js, React e bancos de dados relacionais.
-
-Atualmente também estou aprofundando meus conhecimentos em **Java e Spring Boot**, buscando evoluir minha base em arquitetura de software, desenvolvimento de APIs e construção de sistemas.
-
-* 🎓 Engenharia de Software — 6º período
-* 💻 Full Stack Developer em formação
-* ⚙️ Foco em Backend e APIs REST
-* 📚 Atualmente estudando Java e Spring Boot
-* 🗄️ Experiência com MySQL
-* 🐧 Experiência com Linux, VPS e Nginx
-* 🔧 Git, GitHub e Postman
-* 📍 Rio de Janeiro, Brasil
-* 🚀 Buscando oportunidades de **Estágio ou Desenvolvedor Júnior**
-* 🌎 Disponível para mudança de cidade
-
----
-
-## 🛠️ Tecnologias
-
-### Linguagens
-
-`JavaScript` `TypeScript` `Java` `HTML` `CSS`
-
-### Frontend
-
-`React`
-
-### Backend
-
-`Node.js` `Express` `Spring Boot` `REST APIs`
-
-### Banco de Dados
-
-`MySQL`
-
-### Infraestrutura
-
-`Linux` `Nginx` `VPS` `Deployment`
-
-### Ferramentas
-
-`Git` `GitHub` `Postman`
-
----
-
-## 🎯 Áreas de interesse
-
-* Desenvolvimento Backend
-* Desenvolvimento Full Stack
-* APIs REST
-* Arquitetura de Software
-* Banco de Dados
-* Autenticação e autorização
-* Integração entre sistemas
-* Desenvolvimento de aplicações web
-* Infraestrutura e deploy
-
----
-
-## 📚 Atualmente estudando
-
-```text
-Java
-└── Spring Boot
-
-Backend
-├── Node.js
-├── Express
-├── TypeScript
-├── APIs REST
-├── Authentication
-└── Architecture
-
-Frontend
-├── React
-├── TypeScript
-├── HTML
-└── CSS
-
-Database
-└── MySQL
-
-Infrastructure
-├── Linux
-├── Nginx
-├── VPS
-└── Deployment
-```
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-**Aberto a oportunidades de estágio e posições júnior.**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:3B82F6&height=220&section=header&text=Bernardo%20Boechat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/be-boechat-dev/">
-LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-  •  
-
 <a href="mailto:bernardoboechat6@gmail.com">
-Email
+  <img src="https://img.shields.io/badge/Email-1F2A44?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/BernardoBoechat">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-  •  
+<br/><br/>
 
-<a href="https://github.com/BernardoBoechat">
-GitHub
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Node.js+%2B+React+%2B+TypeScript+%2B+MySQL;Buscando+Est%C3%A1gio+%2F+Vaga+J%C3%BAnior+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 👋 Sobre mim
+
+- 🎓 Cursando o **6º período de Engenharia de Software** — UNESA, campus Itaperuna/RJ
+- 💻 Foco atual: **Node.js, Express, React e TypeScript**, com modelagem de dados em **MySQL**
+- 🚀 Construí a **SnakeStore**, uma plataforma de e-commerce full stack com deploy em produção
+- 🌱 Aprendendo agora: **Java e Spring Boot**
+- 📍 Porciúncula/RJ — aberto a mudança de cidade
+- 🔭 Buscando oportunidades de **Estágio ou vaga Júnior**
+
+<br/>
+
+## 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,html,css,git,github,linux,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BernardoBoechat&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=BernardoBoechat&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBoechat&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BernardoBoechat&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br/>
+
+## 📌 Projeto em destaque
+
+<div align="center">
+
+<a href="https://github.com/BernardoBoechat/snakestore">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoBoechat&repo=snakestore&theme=tokyonight&hide_border=true&title_color=3B82F6" />
 </a>
 
 </div>
 
----
+**SnakeStore** — plataforma de e-commerce full stack (React, Node.js, Express, TypeScript, MySQL, JWT), 123 rotas de API, 18 módulos, deploy em produção com Nginx em VPS Linux.
+
+<br/>
+
+## 🐍 Contribuições
 
 <div align="center">
 
-### "Always learning. Always building."
+<img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/snake-output/snake.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1F2A44&height=100&section=footer" width="100%"/>
 
 </div>
