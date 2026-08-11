@@ -41,23 +41,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BernardoBoechat&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=BernardoBoechat&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBoechat&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&langs_count=8" height="165"/>
-
-</div>
-
-<br/>
-
-<br/>
-
-<br/>
-
 ## 🐍 Contribuições
 
 <div align="center">
