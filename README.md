@@ -5,46 +5,53 @@
 <a href="https://www.linkedin.com/in/be-boechat-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:bernardoboechat6@gmail.com">
   <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/BernardoBoechat">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Node.js+%7C+React+%7C+TypeScript+%7C+MySQL;Construindo+APIs+REST+e+aplica%C3%A7%C3%B5es+web+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Backend+%7C+Node.js+%7C+TypeScript+%7C+React;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-🎓 Estudante do **6º período de Engenharia de Software** na UNESA — Itaperuna/RJ.
+* 🎓 Software Engineering student, currently in the **6th semester**
+* 💻 **Full Stack Developer** with a strong focus on backend development
+* ⚙️ Interested in building **REST APIs, web applications and scalable systems**
+* 🧠 Currently focused on **Node.js, TypeScript, React, Express and MySQL**
+* ☕ Currently expanding my knowledge of **Java and Spring Boot**
+* 🐧 Comfortable working with **Linux, VPS and Nginx**
+* 🔧 Experience with **Git, GitHub and Postman**
+* 📍 Based in **Rio de Janeiro, Brazil**
+* 🚀 Open to **internship and junior developer opportunities**
+* 🌎 Open to **relocation depending on the opportunity**
 
-💻 Desenvolvedor **Full Stack**, com maior foco atualmente em **Backend e desenvolvimento de APIs REST**.
+<br/>
 
-🚀 Desenvolvi a **SnakeStore**, uma plataforma de e-commerce full stack com frontend, backend, autenticação, banco de dados e infraestrutura em produção.
+## 🛠️ Tech Stack
 
-🧩 Tenho experiência prática com **Node.js, Express, TypeScript, React, MySQL, JWT, Git e Linux**.
+### Languages
 
-🌱 Atualmente aprofundando meus conhecimentos em **Java e Spring Boot**.
+<div>
 
-📍 Porciúncula/RJ — **disponível para mudança de cidade**.
+<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
 
-🎯 Buscando oportunidades de **Estágio ou Desenvolvedor Júnior**.
-
----
-
-## 🧠 Tecnologias
+</div>
 
 ### Frontend
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=react" />
 
 </div>
 
@@ -52,11 +59,11 @@
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
 </div>
 
-### Banco de Dados
+### Database
 
 <div>
 
@@ -64,7 +71,7 @@
 
 </div>
 
-### DevOps & Ferramentas
+### Tools & Infrastructure
 
 <div>
 
@@ -72,56 +79,18 @@
 
 </div>
 
----
+<br/>
 
-## 🚀 Projeto em destaque
-
-<div align="center">
-
-<a href="https://github.com/BernardoBoechat/snakestore">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoBoechat&repo=snakestore&theme=tokyonight&hide_border=true&title_color=60A5FA"/>
-
-</a>
-
-</div>
-
-### 🛒 SnakeStore
-
-Plataforma de **e-commerce full stack** desenvolvida para simular um ambiente real de produção.
-
-**Stack principal:**
-
-`React` `TypeScript` `Node.js` `Express` `MySQL` `JWT` `Nginx` `Linux`
-
-**Destaques técnicos:**
-
-* 🔹 **123 rotas de API**
-* 🔹 **18 módulos**
-* 🔹 API REST estruturada
-* 🔹 Autenticação baseada em **JWT**
-* 🔹 Integração entre frontend, backend e banco de dados
-* 🔹 Modelagem e persistência de dados com **MySQL**
-* 🔹 Deploy em **VPS Linux**
-* 🔹 Configuração de **Nginx**
-* 🔹 Ambiente de produção
-* 🔹 Versionamento com **Git/GitHub**
-
-<a href="https://github.com/BernardoBoechat/snakestore">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🔧 O que estou estudando
+## 🧩 Development Focus
 
 ```text
 Backend
 ├── Node.js
 ├── Express
-├── APIs REST
-├── Autenticação & JWT
-└── Arquitetura de aplicações
+├── TypeScript
+├── REST APIs
+├── Authentication
+└── Application Architecture
 
 Frontend
 ├── React
@@ -129,23 +98,23 @@ Frontend
 ├── HTML
 └── CSS
 
-Banco de Dados
+Database
 └── MySQL
 
-Java
+Java Ecosystem
 ├── Java
 └── Spring Boot
 
-Infraestrutura
+Infrastructure
 ├── Linux
 ├── Nginx
 ├── VPS
-└── Deploy
+└── Deployment
 ```
 
----
+<br/>
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -159,7 +128,7 @@ Infraestrutura
 
 </div>
 
----
+<br/>
 
 ## 🏆 GitHub Trophies
 
@@ -169,9 +138,9 @@ Infraestrutura
 
 </div>
 
----
+<br/>
 
-## 📈 Contribuições
+## 🐍 Contributions
 
 <div align="center">
 
@@ -179,15 +148,11 @@ Infraestrutura
 
 </div>
 
----
+<br/>
 
-## 📫 Contato
+## 📫 Let's Connect
 
 <div align="center">
-
-Se você quiser conversar sobre **desenvolvimento, projetos, oportunidades ou tecnologia**, entre em contato.
-
-<br/>
 
 <a href="mailto:bernardoboechat6@gmail.com">
   <img src="https://img.shields.io/badge/Email-bernardoboechat6%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
