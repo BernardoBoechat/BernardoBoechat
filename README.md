@@ -1,96 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Bernardo%20Boechat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+# Bernardo Boechat
 
-<a href="https://www.linkedin.com/in/be-boechat-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Software Engineering Student · Full Stack Developer
 
-<a href="mailto:bernardoboechat6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Backend • APIs REST • TypeScript • Node.js • React • MySQL**
 
-<a href="https://github.com/BernardoBoechat">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Backend+%7C+Node.js+%7C+TypeScript+%7C+React;Building+Scalable+Web+Applications+%F0%9F%9A%80" alt="Typing SVG"/>
+<a href="https://github.com/BernardoBoechat">GitHub</a>
+  •   <a href="https://www.linkedin.com/in/be-boechat-dev/">LinkedIn</a>
+  •   <a href="mailto:bernardoboechat6@gmail.com">Email</a>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-* 🎓 Software Engineering student, currently in the **6th semester**
-* 💻 **Full Stack Developer** with a strong focus on backend development
-* ⚙️ Interested in building **REST APIs, web applications and scalable systems**
-* 🧠 Currently focused on **Node.js, TypeScript, React, Express and MySQL**
-* ☕ Currently expanding my knowledge of **Java and Spring Boot**
-* 🐧 Comfortable working with **Linux, VPS and Nginx**
-* 🔧 Experience with **Git, GitHub and Postman**
-* 📍 Based in **Rio de Janeiro, Brazil**
-* 🚀 Open to **internship and junior developer opportunities**
-* 🌎 Open to **relocation depending on the opportunity**
+Sou estudante de **Engenharia de Software**, atualmente no **6º período**, com foco no desenvolvimento de aplicações web e APIs.
 
-<br/>
+Tenho interesse principalmente em **Backend e desenvolvimento Full Stack**, trabalhando com JavaScript, TypeScript, Node.js, React e bancos de dados relacionais.
 
-## 🛠️ Tech Stack
+Atualmente também estou aprofundando meus conhecimentos em **Java e Spring Boot**, buscando evoluir minha base em arquitetura de software, desenvolvimento de APIs e construção de sistemas.
 
-### Languages
+* 🎓 Engenharia de Software — 6º período
+* 💻 Full Stack Developer em formação
+* ⚙️ Foco em Backend e APIs REST
+* 📚 Atualmente estudando Java e Spring Boot
+* 🗄️ Experiência com MySQL
+* 🐧 Experiência com Linux, VPS e Nginx
+* 🔧 Git, GitHub e Postman
+* 📍 Rio de Janeiro, Brasil
+* 🚀 Buscando oportunidades de **Estágio ou Desenvolvedor Júnior**
+* 🌎 Disponível para mudança de cidade
 
-<div>
+---
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+## 🛠️ Tecnologias
 
-</div>
+### Linguagens
+
+`JavaScript` `TypeScript` `Java` `HTML` `CSS`
 
 ### Frontend
 
-<div>
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-</div>
+`React`
 
 ### Backend
 
-<div>
+`Node.js` `Express` `Spring Boot` `REST APIs`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+### Banco de Dados
 
-</div>
+`MySQL`
 
-### Database
+### Infraestrutura
 
-<div>
+`Linux` `Nginx` `VPS` `Deployment`
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+### Ferramentas
 
-</div>
+`Git` `GitHub` `Postman`
 
-### Tools & Infrastructure
+---
 
-<div>
+## 🎯 Áreas de interesse
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,postman" />
+* Desenvolvimento Backend
+* Desenvolvimento Full Stack
+* APIs REST
+* Arquitetura de Software
+* Banco de Dados
+* Autenticação e autorização
+* Integração entre sistemas
+* Desenvolvimento de aplicações web
+* Infraestrutura e deploy
 
-</div>
+---
 
-<br/>
-
-## 🧩 Development Focus
+## 📚 Atualmente estudando
 
 ```text
+Java
+└── Spring Boot
+
 Backend
 ├── Node.js
 ├── Express
 ├── TypeScript
-├── REST APIs
+├── APIs REST
 ├── Authentication
-└── Application Architecture
+└── Architecture
 
 Frontend
 ├── React
@@ -101,10 +102,6 @@ Frontend
 Database
 └── MySQL
 
-Java Ecosystem
-├── Java
-└── Spring Boot
-
 Infrastructure
 ├── Linux
 ├── Nginx
@@ -112,62 +109,38 @@ Infrastructure
 └── Deployment
 ```
 
-<br/>
+---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BernardoBoechat&show_icons=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=60A5FA"/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=BernardoBoechat&theme=tokyonight&hide_border=true&ring=60A5FA&fire=60A5FA"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBoechat&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA&langs_count=8"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
+## 📫 Contato
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BernardoBoechat&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+**Aberto a oportunidades de estágio e posições júnior.**
 
-</div>
-
-<br/>
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/snake-output/snake.svg" alt="Snake animation" width="100%"/>
-
-</div>
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:bernardoboechat6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bernardoboechat6%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://www.linkedin.com/in/be-boechat-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Boechat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+LinkedIn
+</a>
+
+  •  
+
+<a href="mailto:bernardoboechat6@gmail.com">
+Email
+</a>
+
+  •  
+
+<a href="https://github.com/BernardoBoechat">
+GitHub
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
+### "Always learning. Always building."
 
 </div>
