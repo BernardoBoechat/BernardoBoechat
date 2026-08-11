@@ -54,27 +54,7 @@
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BernardoBoechat&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
 <br/>
-
-## 📌 Projeto em destaque
-
-<div align="center">
-
-<a href="https://github.com/BernardoBoechat/snakestore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoBoechat&repo=snakestore&theme=tokyonight&hide_border=true&title_color=3B82F6" />
-</a>
-
-</div>
-
-**SnakeStore** — plataforma de e-commerce full stack (React, Node.js, Express, TypeScript, MySQL, JWT), 123 rotas de API, 18 módulos, deploy em produção com Nginx em VPS Linux.
 
 <br/>
 
