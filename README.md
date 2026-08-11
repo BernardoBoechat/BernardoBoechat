@@ -1,84 +1,177 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:3B82F6&height=220&section=header&text=Bernardo%20Boechat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Bernardo%20Boechat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/be-boechat-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:bernardoboechat6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1F2A44?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/BernardoBoechat">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Node.js+%2B+React+%2B+TypeScript+%2B+MySQL;Buscando+Est%C3%A1gio+%2F+Vaga+J%C3%BAnior+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Node.js+%7C+React+%7C+TypeScript+%7C+MySQL;Construindo+APIs+REST+e+aplica%C3%A7%C3%B5es+web+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
-<br/>
+---
 
-## 👋 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Cursando o **6º período de Engenharia de Software** — UNESA, campus Itaperuna/RJ
-- 💻 Foco atual: **Node.js, Express, React e TypeScript**, com modelagem de dados em **MySQL**
-- 🚀 Construí a **SnakeStore**, uma plataforma de e-commerce full stack com deploy em produção
-- 🌱 Aprendendo agora: **Java e Spring Boot**
-- 📍 Porciúncula/RJ — aberto a mudança de cidade
-- 🔭 Buscando oportunidades de **Estágio ou vaga Júnior**
+🎓 Estudante do **6º período de Engenharia de Software** na UNESA — Itaperuna/RJ.
 
-<br/>
+💻 Desenvolvedor **Full Stack**, com maior foco atualmente em **Backend e desenvolvimento de APIs REST**.
 
-## 🛠️ Stack
+🚀 Desenvolvi a **SnakeStore**, uma plataforma de e-commerce full stack com frontend, backend, autenticação, banco de dados e infraestrutura em produção.
 
-<div align="center">
+🧩 Tenho experiência prática com **Node.js, Express, TypeScript, React, MySQL, JWT, Git e Linux**.
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,html,css,git,github,linux,postman&theme=dark" />
+🌱 Atualmente aprofundando meus conhecimentos em **Java e Spring Boot**.
 
-</div>
+📍 Porciúncula/RJ — **disponível para mudança de cidade**.
 
-<br/>
+🎯 Buscando oportunidades de **Estágio ou Desenvolvedor Júnior**.
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+## 🧠 Tecnologias
 
-<img src="https://github-readme-stats.vercel.app/api?username=BernardoBoechat&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=BernardoBoechat&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6" height="165"/>
+### Frontend
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBoechat&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&langs_count=8" height="165"/>
+<div>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 
 </div>
 
-<br/>
+### Backend
 
-## 🏆 Trophies
+<div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BernardoBoechat&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 
 </div>
 
-<br/>
+### Banco de Dados
 
-## 📌 Projeto em destaque
+<div>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</div>
+
+### DevOps & Ferramentas
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,postman" />
+
+</div>
+
+---
+
+## 🚀 Projeto em destaque
 
 <div align="center">
 
 <a href="https://github.com/BernardoBoechat/snakestore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoBoechat&repo=snakestore&theme=tokyonight&hide_border=true&title_color=3B82F6" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoBoechat&repo=snakestore&theme=tokyonight&hide_border=true&title_color=60A5FA"/>
+
 </a>
 
 </div>
 
-**SnakeStore** — plataforma de e-commerce full stack (React, Node.js, Express, TypeScript, MySQL, JWT), 123 rotas de API, 18 módulos, deploy em produção com Nginx em VPS Linux.
+### 🛒 SnakeStore
+
+Plataforma de **e-commerce full stack** desenvolvida para simular um ambiente real de produção.
+
+**Stack principal:**
+
+`React` `TypeScript` `Node.js` `Express` `MySQL` `JWT` `Nginx` `Linux`
+
+**Destaques técnicos:**
+
+* 🔹 **123 rotas de API**
+* 🔹 **18 módulos**
+* 🔹 API REST estruturada
+* 🔹 Autenticação baseada em **JWT**
+* 🔹 Integração entre frontend, backend e banco de dados
+* 🔹 Modelagem e persistência de dados com **MySQL**
+* 🔹 Deploy em **VPS Linux**
+* 🔹 Configuração de **Nginx**
+* 🔹 Ambiente de produção
+* 🔹 Versionamento com **Git/GitHub**
+
+<a href="https://github.com/BernardoBoechat/snakestore">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🔧 O que estou estudando
+
+```text
+Backend
+├── Node.js
+├── Express
+├── APIs REST
+├── Autenticação & JWT
+└── Arquitetura de aplicações
+
+Frontend
+├── React
+├── TypeScript
+├── HTML
+└── CSS
+
+Banco de Dados
+└── MySQL
+
+Java
+├── Java
+└── Spring Boot
+
+Infraestrutura
+├── Linux
+├── Nginx
+├── VPS
+└── Deploy
+```
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BernardoBoechat&show_icons=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=60A5FA"/>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=BernardoBoechat&theme=tokyonight&hide_border=true&ring=60A5FA&fire=60A5FA"/>
 
 <br/>
 
-## 🐍 Contribuições
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBoechat&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA&langs_count=8"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BernardoBoechat&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+---
+
+## 📈 Contribuições
 
 <div align="center">
 
@@ -86,10 +179,30 @@
 
 </div>
 
+---
+
+## 📫 Contato
+
+<div align="center">
+
+Se você quiser conversar sobre **desenvolvimento, projetos, oportunidades ou tecnologia**, entre em contato.
+
+<br/>
+
+<a href="mailto:bernardoboechat6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bernardoboechat6%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/be-boechat-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Boechat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1F2A44&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
