@@ -26,7 +26,6 @@
 - 💻 Foco atual: **Node.js, Express, React e TypeScript**, com modelagem de dados em **MySQL**
 - 🚀 Construí a **SnakeStore**, uma plataforma de e-commerce full stack com deploy em produção
 - 🌱 Aprendendo agora: **Java e Spring Boot**
-- 📍 Porciúncula/RJ — aberto a mudança de cidade
 - 🔭 Buscando oportunidades de **Estágio ou vaga Júnior**
 
 <br/>
