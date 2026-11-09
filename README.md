@@ -27,7 +27,7 @@
 | ------- | ------- | ----- |
 | [**secure-auth-backend**](https://github.com/BernardoBoechat/secure-auth-backend) | API de autenticação com JWT em cookie HTTP Only, rota protegida, erros centralizados e testes no CI | Node.js · Express 5 · JWT · bcrypt |
 | [**desafio-empresa**](https://github.com/BernardoBoechat/desafio-empresa) | Desafios de processo seletivo: comissões, movimentação de estoque e juros por atraso | Java · Maven · Jackson |
-| [**Noir-Profile**](https://github.com/BernardoBoechat/Noir-Profile) | Página "link na bio" minimalista com animações | React · TypeScript · Vite · Tailwind · GSAP |
+| [**Noir-Profile**](https://github.com/BernardoBoechat/Noir-Profile) | Página "link na bio" minimalista com animações | React · TypeScript · Vite · Tailwind |
 | **SnakeStore** *(código privado)* | E-commerce para itens de jogos, com pagamentos, webhooks e atualizações em tempo real | Node.js · TypeScript · MySQL · WebSockets |
 
 ## 🛠️ Stack
