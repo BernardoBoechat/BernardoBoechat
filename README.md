@@ -1,54 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:3B82F6&height=220&section=header&text=Bernardo%20Boechat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,100:1d3b2a&height=200&section=header&text=Bernardo%20Boechat&fontSize=46&fontColor=f4f5f2&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20foco%20em%20backend&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://www.linkedin.com/in/be-boechat-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:bernardoboechat6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1F2A44?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/be-boechat-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bernardoboechat6@gmail.com"><img src="https://img.shields.io/badge/Email-0a0b0d?style=for-the-badge&logo=gmail&logoColor=7cf29a" /></a>
+<img src="https://img.shields.io/badge/Aberto%20a-est%C3%A1gio%20e%20vaga%20j%C3%BAnior-7cf29a?style=for-the-badge&labelColor=0a0b0d" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Node.js+%2B+React+%2B+TypeScript+%2B+MySQL;Buscando+Est%C3%A1gio+%2F+Vaga+J%C3%BAnior+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=7CF29A&center=true&vCenter=true&width=620&lines=APIs+REST+com+Node.js+e+TypeScript;Pagamentos%2C+webhooks+e+tempo+real;Do+banco+de+dados+ao+deploy;Buscando+est%C3%A1gio+ou+vaga+j%C3%BAnior" alt="Typing SVG" />
 
 </div>
 
-<br/>
-
 ## 👋 Sobre mim
 
-- 🎓 Cursando o **6º período de Engenharia de Software** — UNESA, campus Itaperuna/RJ
-- 💻 Foco atual: **Node.js, Express, React e TypeScript**, com modelagem de dados em **MySQL**
-- 🚀 Construí a **SnakeStore**, uma plataforma de e-commerce full stack com deploy em produção
-- 🌱 Aprendendo agora: **Java e Spring Boot**
-- 🔭 Buscando oportunidades de **Estágio ou vaga Júnior**
+- 🎓 **6º período de Engenharia de Software** na UNESA, campus Itaperuna/RJ
+- 💻 Desenvolvo com **Node.js, Express, TypeScript e React**, com dados em **MySQL**
+- 🚀 Construí sozinho a **SnakeStore**, um e-commerce full stack com gateway de pagamento, webhooks, WebSockets e deploy em VPS
+- 🌱 Aprendendo agora: **Java e Spring Boot** (Bootcamp Itaú na DIO)
+- 🔐 Estudo segurança de aplicações (Aceleração Santander de Cibersegurança na DIO)
+- 🔭 Buscando **estágio ou vaga júnior** em desenvolvimento backend ou full stack
 
-<br/>
+## 📌 Projetos em destaque
+
+| Projeto | O que é | Stack |
+| ------- | ------- | ----- |
+| [**secure-auth-backend**](https://github.com/BernardoBoechat/secure-auth-backend) | API de autenticação com JWT em cookie HTTP Only, rota protegida, erros centralizados e testes no CI | Node.js · Express 5 · JWT · bcrypt |
+| [**desafio-empresa**](https://github.com/BernardoBoechat/desafio-empresa) | Desafios de processo seletivo: comissões, movimentação de estoque e juros por atraso | Java · Maven · Jackson |
+| [**Noir-Profile**](https://github.com/BernardoBoechat/Noir-Profile) | Página "link na bio" minimalista com animações | React · TypeScript · Vite · Tailwind · GSAP |
+| **SnakeStore** *(código privado)* | E-commerce para itens de jogos, com pagamentos, webhooks e atualizações em tempo real | Node.js · TypeScript · MySQL · WebSockets |
 
 ## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mysql,html,css,git,github,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,react,java,mysql,docker,linux,git,github,postman&theme=dark" />
 
 </div>
 
-<br/>
-
-## 🐍 Contribuições
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/snake-output/snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/stats-output/stats.svg" height="165" alt="Estatísticas" />
+<img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/languages-output/languages.svg" height="165" alt="Linguagens" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/BernardoBoechat/BernardoBoechat/snake-output/snake.svg" alt="Animação da cobrinha comendo as contribuições" width="100%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1F2A44&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3b2a,100:0a0b0d&height=100&section=footer" width="100%"/>
 
 </div>
